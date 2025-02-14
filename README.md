@@ -8,6 +8,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vercel,firebase,figma&theme=light)](https://skillicons.dev)
 
 ### Contact me
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:aydha0110@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydha0110@gmail.com)
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://yuda.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ydh0110/)](https://www.linkedin.com/in/ydh0110/)
