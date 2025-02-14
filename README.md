@@ -4,6 +4,7 @@
 
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,pinia,vite,html,css,tailwind&theme=light)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=vercel,firebase,figma&theme=light)](https://skillicons.dev)
 
 ### Contact me
