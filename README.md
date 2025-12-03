@@ -1,7 +1,5 @@
 # Dahyun Yu
 
-![yuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuda110&show_icons=true)
-
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,pinia,vite,html,css,tailwind&theme=light)](https://skillicons.dev)
 <br>
