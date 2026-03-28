@@ -1,9 +1,9 @@
 # Dahyun Yu
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,pinia,vite,html,css,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,pinia,vite,html,css,tailwind&theme=light)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=vercel,firebase,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,supabase,figma&theme=light)](https://skillicons.dev)
 
 ### Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydha0110@gmail.com)
